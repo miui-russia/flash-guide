@@ -1,3 +1,7 @@
+---
+title: Installer Xiaomi.eu-programvare for Redmi 3
+---
+
 # Installer Xiaomi.eu-programvare for Redmi 3
 1. Lås opp din Mi-enhet: http://en.miui.com/unlock/index.html
 2. Installer Xiaomi USB drivere fra Mi PC Suite: http://pcsuite.mi.com/
