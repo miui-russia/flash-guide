@@ -14,4 +14,4 @@ title: Installer Xiaomi.eu-programvare for Redmi 3
 10. Skriv inn i ledeteksten: **fastboot devices**, og trykk på Enter for å være sikker på at enheten blir gjenkjent.
 11. Skriv inn i ledeteksten: **fastboot flash recovery recovery.img** og trykk Enter for å flashe recovery.
 12. Skriv inn i ledeteksten: **fastboot boot recovery.img** og trykk på Enter for å gå til installasjonsskjermbildet.
-13. Last ned og installer programvare for Redmi 3 (ido): https://www.androidfilehost.com/?fid=24459283995300351
+13. Last ned og installer programvare for Redmi 3 (ido): https://www.androidfilehost.com/?fid=24665539028713645
